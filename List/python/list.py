@@ -1,4 +1,5 @@
 N = int(input())
+
 L=[]
 for i in range (N):
     n=[(x) for x in input().split(' ')]
